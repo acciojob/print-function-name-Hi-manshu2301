@@ -3,3 +3,4 @@ function functionName(){
 	cosnt fname = arguments.callee.name;
 	alert(fname);
 }
+functionName();
